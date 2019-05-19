@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Awesome Dev
 <<<<<<< HEAD
 =======
@@ -12,6 +13,9 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 >>>>>>> 75e7d56 (Initial commit)
 =======
+=======
+# Dev Feed
+>>>>>>> e444f3d (Update README.md)
 
 TODO Add more description here.
 

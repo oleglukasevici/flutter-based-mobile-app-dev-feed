@@ -22,8 +22,8 @@ For help getting started with Flutter, view our online
 
 [![Heroku](https://img.shields.io/badge/heroku-deployed%20on%20free%20dyno-blue.svg)](https://dev-feed-api.herokuapp.com/graphiql)
 
-[![Docker Stars](https://img.shields.io/docker/stars/rm3l/dev-feed.svg)](https://hub.docker.com/r/rm3l/dev-feed)
-[![Docker Pulls](https://img.shields.io/docker/pulls/rm3l/dev-feed.svg)](https://hub.docker.com/r/rm3l/dev-feed)
+[![Docker Stars](https://img.shields.io/docker/stars/rm3l/dev-feed-api.svg)](https://hub.docker.com/r/rm3l/dev-feed-api)
+[![Docker Pulls](https://img.shields.io/docker/pulls/rm3l/dev-feed-api.svg)](https://hub.docker.com/r/rm3l/dev-feed-api)
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/rm3l/dev-feed/blob/master/LICENSE)
 
